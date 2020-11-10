@@ -1,8 +1,8 @@
 # Chinese
-# GPS-Conf
-加快GPS定位速度
-# OLX Team
-加快中国Android定位搜星速度
+# GPS PRO
+增强GPS定位精准度
+# OLX Team @ lnsTake
+增强Android定位精准度
 # 使用方法:
 将gps.conf放入system/etc下
 
@@ -13,10 +13,10 @@
 
 
 # English:
-# GPS-Conf
- Speed ​​up GPS positioning
- # OLX Team
- Speed ​​up China's Android positioning search speed
+# GPS PRO
+ Enhancing GPS positioning accuracy 
+ # OLX Team @ lnsTake
+ Enhancing Android positioning accuracy 
 # Instructions
  Put gps.conf under system/etc
 
