@@ -1,25 +1,6 @@
-# Chinese
-# GPS PRO
-增强GPS定位精准度
-# OLX Team @ lnsTake
-增强Android定位精准度
-# 使用方法:
-将gps.conf放入system/etc下
-
-将gps.conf放入system/vendor/etc下
-
-将gps_debug.conf放入system/etc
-
-
-
-# English:
-# GPS PRO
- Enhancing GPS positioning accuracy 
- # OLX Team @ lnsTake
- Enhancing Android positioning accuracy 
-# Instructions
- Put gps.conf under system/etc
-
- Put gps.conf under system/vendor/etc
-
- Put gps_debug.conf into system/etc
+GPS支持更多的手机型号(需要ROOT＋Magisk)
+本模块不代表能修复你的GPS
+但如果你的手机正常。那么将提升你的GPS定位速度！
+模块结合小米.一加.LG.三星的所有GPS模块相关代码创造而成！
+不排除所有手机系统都可以用(系统即ROM)
+目前我用过的手机(小米.一加)以及大众测试的三星LG都可以用
